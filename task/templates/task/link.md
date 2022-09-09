@@ -1,0 +1,1 @@
+https://masteringbackend.com/posts/django-tutorial-the-ultimate-guide/
